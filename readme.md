@@ -1,5 +1,5 @@
 # Exercice : jeu du pendu
-
+- https://lena4496.github.io/pendu/
 - Durée : 1 jour
 - Deadline : Vendredi 08/11/2019, 16h30
 - Formulaire : [Form](https://docs.google.com/spreadsheets/d/1KLIZz_5032xxEhTIME6qObbI8jvUSP8oPVq9WerYS3Q/edit#gid=1079298716)
