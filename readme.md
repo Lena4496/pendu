@@ -27,3 +27,5 @@ Info : le nombre d'essais est illimité
     - Garder en mémoire toutes les lettres devinées (bonnes et mauvaises) et seulement laisser l'utilisateur deviner une lettre une fois.
     - Si une lettre est entrée deux fois, ne rien faire.
     - Compter le nombre de tentatives ratées.
+    
+https://github.com/simonjsuh/Vanilla-Javascript-Hangman-Game/blob/master/LICENSE
